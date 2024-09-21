@@ -1,0 +1,26 @@
+# Content loss when browsing and printing web pages in Chrome
+
+In browser version 128.0.6613.138 (official version) (arm64)
+When printing web pages, there may be style loss and confusion
+
+## Provide 3 pages
+
+3. HTML: Printing failed, missing content style
+2. HTML: 80% successful after deleting 2/3 of the content in 3. HTM
+
+1. HTML: 100% success after deleting content from 3. HTM 1/50
+
+1.html Print preview is successful with no issues, 100% success rate
+
+![alt text](image.png)
+
+2.html Print preview text was successfully cut by stepping on 80%
+![alt text](image-1.png)
+
+Web preview is like this
+￼![alt text](image-2.png)
+
+3.html There are quite a few problems. The style is disordered, and the content has been successfully lost by 20%
+![alt text](image-3.png)
+
+￼
