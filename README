@@ -23,4 +23,11 @@ Web preview is like this
 3.html There are quite a few problems. The style is disordered, and the content has been successfully lost by 20%
 ![alt text](image-3.png)
 
-￼
+![alt text](image-4.png)
+
+## There are examples in the puppeteer directory
+
+npm install
+
+node index.js
+
